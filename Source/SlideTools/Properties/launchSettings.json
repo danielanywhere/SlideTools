@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SlideTools": {
+      "commandName": "Project",
+      "commandLineArgs": "slidetools /wait /action:Batch /configfile:C:\\Files\\Dropbox\\Develop\\Projects\\SlideTools\\Docs\\Aerionics-AltimeterInstallation-SlideTools.json"
+    }
+  }
+}
