@@ -36,13 +36,13 @@ Following is the list of features currently under construction.
 
 ## ShapeCrawler Working Demonstration
 
-This application is able to provide extended editing powers to PowerPoint documents thanks to the work of the [ShapeCrawler library](https://github.com/ShapeCrawler/ShapeCrawler), also here on GitHub.
+This application is able to provide extended editing powers to PowerPoint documents thanks to the work of the <a href="https://github.com/ShapeCrawler/ShapeCrawler" target="_blank">ShapeCrawler library</a>, also here on GitHub.
 
 <p>&nbsp;</p>
 
 ## ActionEngine Working Demonstration
 
-Beyond providing extended editing powers to PowerPoint documents, this project doubles as a working example for practical use of the [ActionEngine library](https://github.com/danielanywhere/ActionEngine), also here on GitHub.
+Beyond providing extended editing powers to PowerPoint documents, this project doubles as a working example for practical use of the <a href="https://github.com/danielanywhere/ActionEngine">ActionEngine library</a>, also here on GitHub.
 
 <p>&nbsp;</p>
 
