@@ -163,6 +163,22 @@ namespace SlideTools
 		//*-----------------------------------------------------------------------*
 
 		//*-----------------------------------------------------------------------*
+		//* ForEachSelected																												*
+		//*-----------------------------------------------------------------------*
+		/// <summary>
+		/// Loop through each item in the selected items list, performing a set
+		/// of actions on each selected item.
+		/// </summary>
+		/// <param name="item">
+		/// Reference to the slide action item to process.
+		/// </param>
+		private static void ForEachSelected(SlideActionItem item)
+		{
+
+		}
+		//*-----------------------------------------------------------------------*
+
+		//*-----------------------------------------------------------------------*
 		//* ForEachSlide																													*
 		//*-----------------------------------------------------------------------*
 		/// <summary>
@@ -1151,6 +1167,9 @@ namespace SlideTools
 					break;
 				case "findobjects":
 					FindObjects(this);
+					break;
+				case "foreachselected":
+					ForEachSelected(this);
 					break;
 				case "foreachslide":
 					ForEachSlide(this);
