@@ -4,6 +4,8 @@
 
 This is a command-line application specialized in working with PowerPoint documents.
 
+<p>&nbsp;</p>
+
 ## Features
 
 Following is the current list of available features in this version.
@@ -22,19 +24,27 @@ Following is the current list of available features in this version.
 -   **SetSelectedX**. Assign the X coordinate on all selected objects to the value in the specified variable.
 -   **SlideReport**. Create a report of all the slides in the specified file.
 
+<p>&nbsp;</p>
+
 Following is the list of features currently under construction.
 
 -   **AlignLeft**. Align all selected items left.
 -   **ChangeImage**. Switch the image on all selected items.
 -   **ForEachSelected**. Loop through each item in the selected items list, performing a set of actions on each selected item.
 
+<p>&nbsp;</p>
+
 ## ShapeCrawler Working Demonstration
 
 This application is able to provide extended editing powers to PowerPoint documents thanks to the work of the [ShapeCrawler library](https://github.com/ShapeCrawler/ShapeCrawler), also here on GitHub.
 
+<p>&nbsp;</p>
+
 ## ActionEngine Working Demonstration
 
 Beyond providing extended editing powers to PowerPoint documents, this project doubles as a working example for practical use of the [ActionEngine library](https://github.com/danielanywhere/ActionEngine), also here on GitHub.
+
+<p>&nbsp;</p>
 
 ## More to Come
 
